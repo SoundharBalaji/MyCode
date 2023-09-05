@@ -2,7 +2,7 @@ from tkinter import *
 
 def submit():
     username =  entrybox.get()
-    print("Poda Potta "+username)
+    print("Poda mental "+username)
 
 def delete():
     entrybox.delete(0, END)
