@@ -20,7 +20,7 @@ menu.insert(1,"Idly")
 menu.insert(2,"Dosa")
 menu.insert(3,"Parotta")
 menu.insert(4,"Chapati")
-menu.insert(5,"Idiyappam")
+menu.insert(5,"Theriyathu")
 
 submit_button = Button(text="Submit",
                        fg="red",
